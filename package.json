@@ -1,6 +1,6 @@
 {
-  "author": "adrai",
-  "name": "sessionstore",
+  "author": "benjsmi",
+  "name": "sessionstore-cloudant",
   "version": "1.2.11",
   "private": false,
   "main": "index.js",
