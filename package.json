@@ -30,7 +30,7 @@
     "redis": ">= 0.10.1",
     "tingodb": ">= 0.0.1"
   },
-  "description": "Sessionstore-cloudant is a node.js module for multiple databases. It can be very useful if you work with express or connect.",
+  "description": "Based on Sessionstore by Adriano Raiano, this npm adds the additional connector to IBM's Cloudant Database, which is a production deployment of couchdb.",
   "keywords": [
     "express",
     "session",
