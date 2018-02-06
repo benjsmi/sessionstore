@@ -1,3 +1,24 @@
+### [v1.3.1](https://github.com/adrai/sessionstore/compare/v1.3.0...v1.3.1)
+- remove deprecated option max_attempts from redis options
+
+### [v1.3.0](https://github.com/adrai/sessionstore/compare/v1.2.18...v1.3.0)
+- compatibility with new mongodb version (3.x)
+
+### [v1.2.18](https://github.com/adrai/sessionstore/compare/v1.2.16...v1.2.18)
+- fix for new mongodb driver
+
+### [v1.2.16](https://github.com/adrai/sessionstore/compare/v1.2.15...v1.2.16)
+- recover elasticsearch connection after temp ping error [#39](https://github.com/adrai/sessionstore/issues/39) [#40](https://github.com/adrai/sessionstore/pull/40) thanks to [ewjmulder](https://github.com/ewjmulder)
+
+### [v1.2.15](https://github.com/adrai/sessionstore/compare/v1.2.14...v1.2.15)
+- redis, mongodb: call disconnect on ping error
+
+### [v1.2.14](https://github.com/adrai/sessionstore/compare/v1.2.13...v1.2.14)
+- Support mongo connection string
+
+### [v1.2.13](https://github.com/adrai/sessionstore/compare/v1.2.12...v1.2.13)
+- redis, mongodb: call disconnect on ping error
+
 ### [v1.2.12](https://github.com/adrai/sessionstore/compare/v1.2.11...v1.2.12)
 - redis: added optional heartbeat
 
